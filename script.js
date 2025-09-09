@@ -67,3 +67,5 @@ function updatePaletteDisplay(colors) {
 }
 
 // generatePalette();
+
+
